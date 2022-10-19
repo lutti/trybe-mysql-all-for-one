@@ -1,0 +1,1 @@
+SELECT DATE_FORMAT(submitted_date ,'%H') AS submitted_hours FROM northwind.purchase_orders;
